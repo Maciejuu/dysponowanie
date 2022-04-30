@@ -1,0 +1,2 @@
+# dysponowanie
+System dysponowania
